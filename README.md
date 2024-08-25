@@ -1,2 +1,2 @@
-# Enhanced-MRI-Brain-Tumor-Classification
+# MRI-Brain-Tumor-Classification
 Developed a machine learning model to classify brain MRI images into normal and tumor types (pituitary, meningioma, glioma). Utilized ResNet50V2 with transfer learning to ensure high accuracy, even on low-quality images. The project involved dataset analysis, augmentation with degraded images, model training, fine-tuning, and thorough validation to prepare the model for real-world deployment.
